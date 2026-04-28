@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Test.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Welcome"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "raw/Test.md",
+            "file": "Welcome.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,7 +194,12 @@
   },
   "active": "ee85d8f1c40a26a7",
   "lastOpenFiles": [
-    "raw/《致富心態》關於財富的18堂課，重點整理和讀書心得.md",
+    "log.md",
+    "index.md",
+    "wiki/致富心態_重點與心得.md",
+    "wiki/entities/摩根．豪瑟.md",
+    "wiki/entities/致富心態.md",
     "raw/Test.md",
+    "raw/《致富心態》關於財富的18堂課，重點整理和讀書心得.md",
   ]
 }
